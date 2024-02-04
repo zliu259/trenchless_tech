@@ -1,6 +1,5 @@
 # Table of contents
 
 * [Main Page](README.md)
-* [术语](shu-yu/README.md)
-  * [Page](shu-yu/page.md)
-* [1. 基本术语](基本术语.md)
+* [术语与定义](shu-yu/README.md)
+  * [基本术语](shu-yu/ji-ben-shu-yu.md)

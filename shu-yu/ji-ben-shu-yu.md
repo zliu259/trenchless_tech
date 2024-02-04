@@ -2,7 +2,7 @@
 description: zliu259
 ---
 
-# 1. 基本术语
+# 基本术语
 
 ## 1.1 非开挖技术/No-Dig, Trenchless Technology
 
@@ -20,13 +20,13 @@ description: zliu259
 
 在土体内挖掘孔洞，并铺设或浇筑（渠）道的施工方法，包括：
 
-* [水平定向钻进法](基本术语.md#id-1.5-shui-ping-ding-xiang-zuan-jin-fa-horizontal-directional-drilling-hdd)
-* [顶管法](基本术语.md#id-1.6-ding-guan-fa-pipe-jacking)
-* [夯管法](基本术语.md#id-1.7-hang-guan-fa-pipe-ramming)
-* [冲击矛](基本术语.md#id-1.8-chong-ji-mao-fa-impact-molling)
-* [水平螺旋钻进法](基本术语.md#id-1.9-luo-xuan-zuan-jin-fa-auger-boring)
-* [隧道法](基本术语.md#id-1.11-sui-dao-jue-jin-fa-tunnelling)
-* [盾构法](基本术语.md#id-1.10-dun-gou-fa-shield)
+* [水平定向钻进法](ji-ben-shu-yu.md#id-1.5-shui-ping-ding-xiang-zuan-jin-fa-horizontal-directional-drilling-hdd)
+* [顶管法](ji-ben-shu-yu.md#id-1.6-ding-guan-fa-pipe-jacking)
+* [夯管法](ji-ben-shu-yu.md#id-1.7-hang-guan-fa-pipe-ramming)
+* [冲击矛](ji-ben-shu-yu.md#id-1.8-chong-ji-mao-fa-impact-molling)
+* [水平螺旋钻进法](ji-ben-shu-yu.md#id-1.9-luo-xuan-zuan-jin-fa-auger-boring)
+* [隧道法](ji-ben-shu-yu.md#id-1.11-sui-dao-jue-jin-fa-tunnelling)
+* [盾构法](ji-ben-shu-yu.md#id-1.10-dun-gou-fa-shield)
 
 ## 1.5 水平定向钻进法/Horizontal Directional Drilling, HDD
 
@@ -155,4 +155,3 @@ description: zliu259
 ## 1.36 工作坑（工作井）/Working Pit，Working Shaft
 
 为实施非开挖工程目的，在地表开挖建造的“坑或井”形临时构筑物。当坑口面积较小时或者坑口的长度或直径与坑深度比小于0.5时，称之为工作井。
-
