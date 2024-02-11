@@ -20,13 +20,13 @@ description: zliu259
 
 在土体内挖掘孔洞，并铺设或浇筑（渠）道的施工方法，包括：
 
-* [水平定向钻进法](ji-ben-shu-yu.md#id-1.5-shui-ping-ding-xiang-zuan-jin-fa-horizontal-directional-drilling-hdd)
-* [顶管法](ji-ben-shu-yu.md#id-1.6-ding-guan-fa-pipe-jacking)
-* [夯管法](ji-ben-shu-yu.md#id-1.7-hang-guan-fa-pipe-ramming)
-* [冲击矛](ji-ben-shu-yu.md#id-1.8-chong-ji-mao-fa-impact-molling)
-* [水平螺旋钻进法](ji-ben-shu-yu.md#id-1.9-luo-xuan-zuan-jin-fa-auger-boring)
-* [隧道法](ji-ben-shu-yu.md#id-1.11-sui-dao-jue-jin-fa-tunnelling)
-* [盾构法](ji-ben-shu-yu.md#id-1.10-dun-gou-fa-shield)
+* [水平定向钻进法](basic\_def.md#id-1.5-shui-ping-ding-xiang-zuan-jin-fa-horizontal-directional-drilling-hdd)
+* [顶管法](basic\_def.md#id-1.6-ding-guan-fa-pipe-jacking)
+* [夯管法](basic\_def.md#id-1.7-hang-guan-fa-pipe-ramming)
+* [冲击矛](basic\_def.md#id-1.8-chong-ji-mao-fa-impact-molling)
+* [水平螺旋钻进法](basic\_def.md#id-1.9-luo-xuan-zuan-jin-fa-auger-boring)
+* [隧道法](basic\_def.md#id-1.11-sui-dao-jue-jin-fa-tunnelling)
+* [盾构法](basic\_def.md#id-1.10-dun-gou-fa-shield)
 
 ## 1.5 水平定向钻进法/Horizontal Directional Drilling, HDD
 
