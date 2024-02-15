@@ -41,7 +41,6 @@
   * [施工组织设计依据](pipe\_jacking\_techsheet/organize/reference.md)
   * [顶管施工设计影响因素](pipe\_jacking\_techsheet/organize/factor.md)
   * [施工组织设计编制](pipe\_jacking\_techsheet/organize/design.md)
-  * [施工组织设计编制与审批要求](pipe\_jacking\_techsheet/organize/designz\_approval.md)
 * [顶管管材](pipe\_jacking\_techsheet/pipe/README.md)
   * [一般规定](pipe\_jacking\_techsheet/pipe/general.md)
   * [管材基本要求](pipe\_jacking\_techsheet/pipe/general\_requirement.md)
